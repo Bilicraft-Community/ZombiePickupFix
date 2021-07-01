@@ -1,0 +1,4 @@
+name: ZombiePickupFix
+version: ${project.version}
+main: com.bilicraft.zombiepickupfix.ZombiePickupFix
+api-version: 1.17
